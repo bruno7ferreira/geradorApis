@@ -1,9 +1,10 @@
 package IMDb;
 
 import java.io.InputStream;
+import java.net.URL;
 import java.util.List;
 
-public class Main {
+public class App {
 
     public static void main(String[] args) throws Exception {
         API api = API.IMDB_TOP_SERIES;
