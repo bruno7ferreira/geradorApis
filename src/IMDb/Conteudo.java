@@ -3,8 +3,8 @@ package IMDb;
 public class Conteudo {
 
     //atributos
-    private String titulo;
-    private String urlImagem;
+    private final String titulo;
+    private final String urlImagem;
 
     //Construtor
     public Conteudo(String titulo, String urlImagem) {
