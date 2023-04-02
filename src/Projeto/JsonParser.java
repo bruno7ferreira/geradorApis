@@ -1,4 +1,4 @@
-package IMDb;
+package Projeto;
 
 import java.util.ArrayList;
 import java.util.HashMap;

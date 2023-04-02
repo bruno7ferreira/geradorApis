@@ -1,4 +1,4 @@
-package IMDb;
+package Projeto;
 
 import java.io.InputStream;
 import java.net.URL;

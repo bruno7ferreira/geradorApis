@@ -1,4 +1,4 @@
-package IMDb;
+package Projeto;
 
 public class Conteudo {
 

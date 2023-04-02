@@ -1,4 +1,4 @@
-package IMDb;
+package Projeto;
 
 import javax.imageio.ImageIO;
 import java.awt.*;

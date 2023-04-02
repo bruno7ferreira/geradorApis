@@ -1,4 +1,4 @@
-package IMDb;
+package Projeto;
 
 import java.io.IOException;
 import java.net.URI;
